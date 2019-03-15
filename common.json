@@ -1,0 +1,146 @@
+{
+	"format": {
+		"banned": "VERBANNEN DOOR '%s' VOOR %s VOOR \"%s\"",
+		"deleted": "VERWIJDERD '%s'",
+		"imageDeleted": "AFBEELDING VERWIJDERD DOOR '%s'",
+		"imageSpoilered": "IMAGE SPOILERED BY '%s'",
+		"newPostsInThread": "%d new posts in thread.",
+		"purgedPost": "POST UITGEWIST DOOR '%s' VOOR \"%s\"",
+		"threadLockToggled": "TOPIC %s door '%s'",
+		"viewedSameIP": "POSTS VAN DEZELFDE IP ZIJN BEKEKEN DOOR '%s'"
+	},
+	"forms": {},
+	"plurals": {
+		"day": [
+			"dag",
+			"dagen"
+		],
+		"hour": [
+			"uur",
+			"uren"
+		],
+		"image": [
+			"afbeelding",
+			"afbeeldingen"
+		],
+		"minute": [
+			"minuut",
+			"minuten"
+		],
+		"month": [
+			"maand",
+			"maanden"
+		],
+		"post": [
+			"post",
+			"posts"
+		],
+		"second": [
+			"seconde",
+			"seconden"
+		],
+		"year": [
+			"jaar",
+			"jaren"
+		]
+	},
+	"posts": {
+		"admin": "Admin",
+		"ago": "geleden",
+		"and": "en",
+		"anon": "Anoniem",
+		"contractImages": "Contract Images",
+		"deleteBySameIP": "Verwijder alles door IP",
+		"expand": "Uitbreiden",
+		"expandImages": "Afbeeldingen uitbreiden",
+		"hide": "Schuil",
+		"in": "in",
+		"janitors": "Meido",
+		"justNow": "Nu",
+		"locked": "gesloten",
+		"moderators": "Moderator",
+		"omitted": "omitted",
+		"owners": "Eigenaar",
+		"seeAll": "Bekijk alles",
+		"show": "Tonen",
+		"spoiler": "Spoiler",
+		"toggleSticky": "Toggle sticky",
+		"unlocked": "ontgrendeld",
+		"viewBySameIP": "Zelfde IP",
+		"you": "(You)"
+	},
+	"sync": [
+		"verbinding verbroken",
+		"verbinden",
+		"synchroniseren",
+		"gesynchroniseerd",
+		"desynced"
+	],
+	"time": {
+		"calendar": [
+			"Jan",
+			"Feb",
+			"Mar",
+			"Apr",
+			"May",
+			"Jun",
+			"Jul",
+			"Aug",
+			"Sep",
+			"Oct",
+			"Nov",
+			"Dec"
+		],
+		"week": [
+			"Zon",
+			"Man",
+			"Di",
+			"Woe",
+			"Do",
+			"Vrij",
+			"Zat"
+		]
+	},
+	"ui": {
+		"bottom": "Bodem",
+		"cancel": "Annuleren",
+		"catalog": "Catalog",
+		"clickToCancel": "Click om te annuleren",
+		"confirmDelete": "Verwijder alle post van deze IP?",
+		"deleteBoard": "verwijder board",
+		"done": "Klaar",
+		"fileTooLarge": "bestand is te groot",
+		"finished": "Klaar",
+		"googleSong": "Click om liedje te googlen",
+		"importCorrupt": "Import mislukt. Bestand corrupt",
+		"importDone": "Import succesvol. De pagina wordt nu opnieuw geladen.",
+		"invalidCaptcha": "Onjuiste captcha",
+		"last": "Laatste",
+		"lockThread": "Schakel topic vergrendeling in",
+		"lockedToBottom": "Gesloten naar beneden",
+		"meidoVisionPost": "Meido vision",
+		"mustMatch": "Wachtwoorden moeten overeenkomen",
+		"newThread": "New topic",
+		"pointToCatalog": "Point to Catalog",
+		"postsImages": "Posts/Images/TTL",
+		"quoted": "You have been quoted",
+		"redirectByIP": "Redirect all by IP",
+		"redirectByThread": "Redirect all by thread",
+		"refresh": "Refresh",
+		"reply": "Reply",
+		"report": "Repporteren",
+		"return": "Terugkeren",
+		"rules": "Bekijk Regels",
+		"search": "Zoeken",
+		"sessionExpired": "Login sessie verlopen",
+		"showNotice": "Opmerken",
+		"submit": "Plaatsen",
+		"thumbnailing": "Thumbnailing...",
+		"top": "Top",
+		"unfinishedPost": "Je hebt een onafgemaakte post",
+		"unwatchThread": "Unwatch topic",
+		"uploadFile": "Upload bestand",
+		"uploadProgress": "uploaded...",
+		"watchThread": "Bekijk topic"
+	}
+}
